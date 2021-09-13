@@ -1,0 +1,46 @@
+button {
+ background-color: blueviolet;
+ color: white;
+ margin: 2px;
+ margin-top: 10px;
+ border-radius: 20px;
+ width: 60px;
+ height: 30px;
+ cursor: pointer;
+ border: none;
+} 
+
+button:hover {
+ background-color: rgba(212, 255, 0, 0.897);
+ color: white;
+} 
+
+h3 {
+ font-size: 22px;
+ margin-top: 30px;
+ color: rgba(212, 255, 0, 0.897);
+}
+
+
+
+.row {
+ margin-top: 10px;
+}
+
+.label {
+ margin-right: 5px;;
+}
+
+.value {
+ font-weight: 300;
+}
+
+.indented {
+ margin-top: 10px;
+ margin-left: 20px;
+} 
+
+.instructions {
+ white-space: pre-wrap;
+} 
+

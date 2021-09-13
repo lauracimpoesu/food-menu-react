@@ -1,0 +1,64 @@
+#btn-add {
+ margin-top: 22px;
+ border-radius: 20px;
+ width: 125px;
+ height: 40px;
+ color: blueviolet;
+ background-color: rgb(255, 255, 255);
+ font-size: 15px;
+ cursor: pointer;
+} 
+
+#btn-add:hover {
+ background-color: rgba(255, 108, 189, 0.897);
+ color: white;
+} 
+
+/* RecipeEdit.js + RecipeIngredientEdit.js */
+
+.removebtn {
+ background-color: rgba(212, 255, 0, 0.897);
+ width: 30px;
+ color: black;
+} 
+
+.removebtn:hover {
+ background-color: blueviolet;
+}
+
+.wholegrid {
+ display: grid;
+ grid-template-columns: auto 1fr;
+}
+
+.titles {
+ margin-top: 50px;
+}
+
+#namee {
+ padding-top: 40px;
+}
+
+.tingr {
+ font-size: 20px;
+}
+
+.btn-add {
+ background-color: rgba(255, 108, 189, 0.897);
+width: 200px;
+}
+
+.btn-danger {
+ background-color: rgba(255, 108, 189, 0.897); 
+ width: 30px;
+}
+
+.btn-add:hover {
+ background-color: blueviolet;
+} 
+
+label {
+ color:rgba(255, 182, 221, 0.897);
+ font-weight: bold;
+} 
+

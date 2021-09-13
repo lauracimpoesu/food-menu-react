@@ -1,0 +1,8 @@
+.ingrid {
+ display: grid;
+ grid-template-columns: repeat(1, auto);
+ row-gap: 5px;
+ column-gap: 40px;
+} 
+
+
